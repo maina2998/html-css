@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: black;
+
+}
+hr{
+    height: 3px;
+    background-color: blueviolet;
+}
+
+p{
+    text-align: center;
+    color: grey;
+    
+}
+ .p{
+
+    text-align: center;
+    
+    
+
+}
+.h{
+    text-align:center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: left;
+}
+.course{
+    float: left;
+    width: 33.3%;
+    align-items: center;
+}
+.all subjects ::after{
+    content: "";
+    display: table;
+    clear: both;
+    padding-top: 50px;
+}
+
